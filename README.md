@@ -43,5 +43,14 @@ As I cannot use every technology on a daily basis, the following stack covers th
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+
+### Additional knowledge
+
+In addition to the tech stacks I also have deep knowledge in the use of the following programs due to hobbies and interest.
+
+[![Davinci Resolve](https://img.shields.io/badge/Davinci_Resolve-%23233A51.svg?logo=davinciresolve&logoColor=white)](#)
+[![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
